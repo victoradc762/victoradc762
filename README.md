@@ -1,7 +1,8 @@
  👋 Hi Folks,
+
 I'm a full stack developer and a software engineer.
 👀 I’m looking for internship and sponsorship.
-🌱 I’m currently learning c, c++, c# and erlang
+🌱 I’m currently learning c, c++, c# and erlang.
 💞️ I’m looking to collaborate on blockchain open source projects.
 📫 How to reach me: you can reach me on instagram;@victotadc & twitter;@victoradc.
 ⚡ Fun fact: I'm nerd, but fun to work with.
