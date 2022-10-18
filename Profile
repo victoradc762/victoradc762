@@ -1,0 +1,17 @@
+👋 Hi Folks,
+ I’m a full stack developer and a software engineer.
+👀 I’m interested in ...
+🌱 I’m currently learning c, c#, c++, and erlang.
+🤔 I'm currently looking for internship and sponsorship.
+💞️ I’m looking to collaborate on blockchain open source projects
+📫 How to reach me: you can find me on twitter: @victoradc & instagram: @victoradc 
+⚡ Fun fact: I'm need, but fun to work with.
+💥 I speak: HTML, CSS, JavaScript, Redux, Reactjs, php, Nodejs, typescript, Nextjs, MongoDB, MySql.
+
+
+
+ 
+<!---
+victoradc762/victoradc762 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
